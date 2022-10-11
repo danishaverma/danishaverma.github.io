@@ -1,4 +1,3 @@
-#  shubhamghosh98.github.io
-# shubhamghosh.me
+#  danishaverma.github.io
 
 This is my portfolio website.
